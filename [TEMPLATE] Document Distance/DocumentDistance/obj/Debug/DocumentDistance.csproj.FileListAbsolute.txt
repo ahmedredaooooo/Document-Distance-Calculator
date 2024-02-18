@@ -1,0 +1,9 @@
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+F:\6th Semester\Analysis & Design of Algorithms\ALG'24\3 Assignments\0 Warm-up Competition [BONUS]\Multi Thread\Warm-up Competition\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb

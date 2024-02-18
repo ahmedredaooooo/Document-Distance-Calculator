@@ -33,3 +33,7 @@ Input two documents, D1 and D2. Execute the calculation to obtain the distance b
 - Document similarity search
 - Duplicate detection
 - Plagiarism detection
+
+### Contribution
+
+If you'd like to contribute to improving this utility, feel free to fork the repository and submit a pull request!
